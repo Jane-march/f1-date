@@ -1,0 +1,1940 @@
+{
+  "version": 20260907,
+  "DRIVERS": [
+    {
+      "name": "Max Verstappen",
+      "abbr": "M. Verstappen",
+      "flag": "🇳🇱",
+      "country": "荷兰",
+      "team": "Red Bull Racing",
+      "num": 1,
+      "titles": 4,
+      "wins": 62,
+      "podiums": 110
+    },
+    {
+      "name": "Isack Hadjar",
+      "abbr": "I. Hadjar",
+      "flag": "🇫🇷",
+      "country": "法国",
+      "team": "Red Bull Racing",
+      "num": 6,
+      "titles": 0,
+      "wins": 0,
+      "podiums": 0
+    },
+    {
+      "name": "Charles Leclerc",
+      "abbr": "C. Leclerc",
+      "flag": "🇲🇨",
+      "country": "摩纳哥",
+      "team": "Ferrari",
+      "num": 16,
+      "titles": 0,
+      "wins": 8,
+      "podiums": 45
+    },
+    {
+      "name": "Lewis Hamilton",
+      "abbr": "L. Hamilton",
+      "flag": "🇬🇧",
+      "country": "英国",
+      "team": "Ferrari",
+      "num": 44,
+      "titles": 7,
+      "wins": 105,
+      "podiums": 200
+    },
+    {
+      "name": "Lando Norris",
+      "abbr": "L. Norris",
+      "flag": "🇬🇧",
+      "country": "英国",
+      "team": "McLaren",
+      "num": 4,
+      "titles": 0,
+      "wins": 5,
+      "podiums": 28
+    },
+    {
+      "name": "Oscar Piastri",
+      "abbr": "O. Piastri",
+      "flag": "🇦🇺",
+      "country": "澳大利亚",
+      "team": "McLaren",
+      "num": 81,
+      "titles": 0,
+      "wins": 3,
+      "podiums": 14
+    },
+    {
+      "name": "George Russell",
+      "abbr": "G. Russell",
+      "flag": "🇬🇧",
+      "country": "英国",
+      "team": "Mercedes-AMG",
+      "num": 63,
+      "titles": 0,
+      "wins": 3,
+      "podiums": 16
+    },
+    {
+      "name": "Kimi Antonelli",
+      "abbr": "K. Antonelli",
+      "flag": "🇮🇹",
+      "country": "意大利",
+      "team": "Mercedes-AMG",
+      "num": 12,
+      "titles": 0,
+      "wins": 1,
+      "podiums": 1
+    },
+    {
+      "name": "Fernando Alonso",
+      "abbr": "F. Alonso",
+      "flag": "🇪🇸",
+      "country": "西班牙",
+      "team": "Aston Martin",
+      "num": 14,
+      "titles": 2,
+      "wins": 32,
+      "podiums": 106
+    },
+    {
+      "name": "Lance Stroll",
+      "abbr": "L. Stroll",
+      "flag": "🇨🇦",
+      "country": "加拿大",
+      "team": "Aston Martin",
+      "num": 18,
+      "titles": 0,
+      "wins": 0,
+      "podiums": 3
+    },
+    {
+      "name": "Pierre Gasly",
+      "abbr": "P. Gasly",
+      "flag": "🇫🇷",
+      "country": "法国",
+      "team": "Alpine",
+      "num": 10,
+      "titles": 0,
+      "wins": 1,
+      "podiums": 4
+    },
+    {
+      "name": "Franco Colapinto",
+      "abbr": "F. Colapinto",
+      "flag": "🇦🇷",
+      "country": "阿根廷",
+      "team": "Alpine",
+      "num": 43,
+      "titles": 0,
+      "wins": 0,
+      "podiums": 0
+    },
+    {
+      "name": "Esteban Ocon",
+      "abbr": "E. Ocon",
+      "flag": "🇫🇷",
+      "country": "法国",
+      "team": "Haas",
+      "num": 31,
+      "titles": 0,
+      "wins": 1,
+      "podiums": 3
+    },
+    {
+      "name": "Oliver Bearman",
+      "abbr": "O. Bearman",
+      "flag": "🇬🇧",
+      "country": "英国",
+      "team": "Haas",
+      "num": 87,
+      "titles": 0,
+      "wins": 0,
+      "podiums": 0
+    },
+    {
+      "name": "Liam Lawson",
+      "abbr": "L. Lawson",
+      "flag": "🇳🇿",
+      "country": "新西兰",
+      "team": "Racing Bulls",
+      "num": 30,
+      "titles": 0,
+      "wins": 0,
+      "podiums": 0
+    },
+    {
+      "name": "Arvid Lindblad",
+      "abbr": "A. Lindblad",
+      "flag": "🇬🇧",
+      "country": "英国",
+      "team": "Racing Bulls",
+      "num": 28,
+      "titles": 0,
+      "wins": 0,
+      "podiums": 0
+    },
+    {
+      "name": "Alexander Albon",
+      "abbr": "A. Albon",
+      "flag": "🇹🇭",
+      "country": "泰国",
+      "team": "Williams",
+      "num": 23,
+      "titles": 0,
+      "wins": 0,
+      "podiums": 2
+    },
+    {
+      "name": "Carlos Sainz",
+      "abbr": "C. Sainz",
+      "flag": "🇪🇸",
+      "country": "西班牙",
+      "team": "Williams",
+      "num": 55,
+      "titles": 0,
+      "wins": 4,
+      "podiums": 26
+    },
+    {
+      "name": "Nico Hülkenberg",
+      "abbr": "N. Hülkenberg",
+      "flag": "🇩🇪",
+      "country": "德国",
+      "team": "Audi",
+      "num": 27,
+      "titles": 0,
+      "wins": 0,
+      "podiums": 0
+    },
+    {
+      "name": "Gabriel Bortoleto",
+      "abbr": "G. Bortoleto",
+      "flag": "🇧🇷",
+      "country": "巴西",
+      "team": "Audi",
+      "num": 5,
+      "titles": 0,
+      "wins": 0,
+      "podiums": 0
+    },
+    {
+      "name": "Sergio Perez",
+      "abbr": "S. Perez",
+      "flag": "🇲🇽",
+      "country": "墨西哥",
+      "team": "Cadillac",
+      "num": 11,
+      "titles": 0,
+      "wins": 6,
+      "podiums": 39
+    },
+    {
+      "name": "Valtteri Bottas",
+      "abbr": "V. Bottas",
+      "flag": "🇫🇮",
+      "country": "芬兰",
+      "team": "Cadillac",
+      "num": 77,
+      "titles": 0,
+      "wins": 10,
+      "podiums": 67
+    }
+  ],
+  "TEAMS": [
+    {
+      "name": "McLaren",
+      "color": "#FF8700",
+      "drivers": [
+        "Lando Norris",
+        "Oscar Piastri"
+      ]
+    },
+    {
+      "name": "Ferrari",
+      "color": "#DC0000",
+      "drivers": [
+        "Charles Leclerc",
+        "Lewis Hamilton"
+      ]
+    },
+    {
+      "name": "Red Bull Racing",
+      "color": "#3671C6",
+      "drivers": [
+        "Max Verstappen",
+        "Isack Hadjar"
+      ]
+    },
+    {
+      "name": "Mercedes-AMG",
+      "color": "#27F4D2",
+      "drivers": [
+        "George Russell",
+        "Kimi Antonelli"
+      ]
+    },
+    {
+      "name": "Aston Martin",
+      "color": "#229971",
+      "drivers": [
+        "Fernando Alonso",
+        "Lance Stroll"
+      ]
+    },
+    {
+      "name": "Alpine",
+      "color": "#FF87BC",
+      "drivers": [
+        "Pierre Gasly",
+        "Franco Colapinto"
+      ]
+    },
+    {
+      "name": "Haas",
+      "color": "#B6BABD",
+      "drivers": [
+        "Esteban Ocon",
+        "Oliver Bearman"
+      ]
+    },
+    {
+      "name": "Racing Bulls",
+      "color": "#6692FF",
+      "drivers": [
+        "Liam Lawson",
+        "Arvid Lindblad"
+      ]
+    },
+    {
+      "name": "Williams",
+      "color": "#64C4FF",
+      "drivers": [
+        "Alexander Albon",
+        "Carlos Sainz"
+      ]
+    },
+    {
+      "name": "Audi",
+      "color": "#52E252",
+      "drivers": [
+        "Nico Hülkenberg",
+        "Gabriel Bortoleto"
+      ],
+      "isNew": true
+    },
+    {
+      "name": "Cadillac",
+      "color": "#C8102E",
+      "drivers": [
+        "Sergio Perez",
+        "Valtteri Bottas"
+      ],
+      "isNew": true
+    }
+  ],
+  "STANDINGS": [
+    {
+      "driver": "Kimi Antonelli",
+      "abbr": "K. Antonelli",
+      "pts": 267
+    },
+    {
+      "driver": "George Russell",
+      "abbr": "G. Russell",
+      "pts": 201
+    },
+    {
+      "driver": "Lewis Hamilton",
+      "abbr": "L. Hamilton",
+      "pts": 191
+    },
+    {
+      "driver": "Lando Norris",
+      "abbr": "L. Norris",
+      "pts": 171
+    },
+    {
+      "driver": "Charles Leclerc",
+      "abbr": "C. Leclerc",
+      "pts": 155
+    },
+    {
+      "driver": "Max Verstappen",
+      "abbr": "M. Verstappen",
+      "pts": 127
+    },
+    {
+      "driver": "Oscar Piastri",
+      "abbr": "O. Piastri",
+      "pts": 116
+    },
+    {
+      "driver": "Isack Hadjar",
+      "abbr": "I. Hadjar",
+      "pts": 71
+    },
+    {
+      "driver": "Pierre Gasly",
+      "abbr": "P. Gasly",
+      "pts": 51
+    },
+    {
+      "driver": "Liam Lawson",
+      "abbr": "L. Lawson",
+      "pts": 41
+    },
+    {
+      "driver": "Arvid Lindblad",
+      "abbr": "A. Lindblad",
+      "pts": 29
+    },
+    {
+      "driver": "Franco Colapinto",
+      "abbr": "F. Colapinto",
+      "pts": 21
+    },
+    {
+      "driver": "Oliver Bearman",
+      "abbr": "O. Bearman",
+      "pts": 18
+    },
+    {
+      "driver": "Gabriel Bortoleto",
+      "abbr": "G. Bortoleto",
+      "pts": 10
+    },
+    {
+      "driver": "Nico Hülkenberg",
+      "abbr": "N. Hülkenberg",
+      "pts": 6
+    },
+    {
+      "driver": "Carlos Sainz",
+      "abbr": "C. Sainz",
+      "pts": 6
+    },
+    {
+      "driver": "Alexander Albon",
+      "abbr": "A. Albon",
+      "pts": 5
+    },
+    {
+      "driver": "Esteban Ocon",
+      "abbr": "E. Ocon",
+      "pts": 3
+    },
+    {
+      "driver": "Fernando Alonso",
+      "abbr": "F. Alonso",
+      "pts": 3
+    },
+    {
+      "driver": "Yuki Tsunoda",
+      "abbr": "Y. Tsunoda",
+      "pts": 1
+    },
+    {
+      "driver": "Lance Stroll",
+      "abbr": "L. Stroll",
+      "pts": 0
+    },
+    {
+      "driver": "Valtteri Bottas",
+      "abbr": "V. Bottas",
+      "pts": 0
+    },
+    {
+      "driver": "Sergio Perez",
+      "abbr": "S. Perez",
+      "pts": 0
+    }
+  ],
+  "SCHEDULE": [
+    {
+      "round": 1,
+      "gp": "澳大利亚大奖赛",
+      "flag": "🇦🇺",
+      "country": "澳大利亚",
+      "circuit": "Albert Park, 墨尔本",
+      "date": "3月6-8日",
+      "raceTime": "12:00",
+      "status": "done"
+    },
+    {
+      "round": 2,
+      "gp": "中国大奖赛",
+      "flag": "🇨🇳",
+      "country": "中国",
+      "circuit": "上海国际赛车场",
+      "date": "3月13-15日",
+      "raceTime": "15:00",
+      "sprint": true,
+      "status": "done"
+    },
+    {
+      "round": 3,
+      "gp": "日本大奖赛",
+      "flag": "🇯🇵",
+      "country": "日本",
+      "circuit": "铃鹿赛道",
+      "date": "3月27-29日",
+      "raceTime": "13:00",
+      "status": "done"
+    },
+    {
+      "round": 4,
+      "gp": "迈阿密大奖赛",
+      "flag": "🇺🇸",
+      "country": "美国",
+      "circuit": "迈阿密国际赛道",
+      "date": "5月2-4日",
+      "raceTime": "04:00",
+      "sprint": true,
+      "status": "done"
+    },
+    {
+      "round": 5,
+      "gp": "加拿大大奖赛",
+      "flag": "🇨🇦",
+      "country": "加拿大",
+      "circuit": "Gilles Villeneuve, 蒙特利尔",
+      "date": "5月23-25日",
+      "raceTime": "04:00",
+      "sprint": true,
+      "status": "done"
+    },
+    {
+      "round": 6,
+      "gp": "摩纳哥大奖赛",
+      "flag": "🇲🇨",
+      "country": "摩纳哥",
+      "circuit": "蒙特卡洛街道赛道",
+      "date": "6月5-7日",
+      "raceTime": "21:00",
+      "status": "done"
+    },
+    {
+      "round": 7,
+      "gp": "西班牙大奖赛",
+      "flag": "🇪🇸",
+      "country": "西班牙",
+      "circuit": "Catalunya, 巴塞罗那",
+      "date": "6月12-14日",
+      "raceTime": "21:00",
+      "status": "done"
+    },
+    {
+      "round": 8,
+      "gp": "奥地利大奖赛",
+      "flag": "🇦🇹",
+      "country": "奥地利",
+      "circuit": "Red Bull Ring, 施皮尔贝格",
+      "date": "6月26-28日",
+      "raceTime": "21:00",
+      "status": "done"
+    },
+    {
+      "round": 9,
+      "gp": "英国大奖赛",
+      "flag": "🇬🇧",
+      "country": "英国",
+      "circuit": "Silverstone, 银石",
+      "date": "7月3-5日",
+      "raceTime": "22:00",
+      "sprint": true,
+      "status": "done"
+    },
+    {
+      "round": 10,
+      "gp": "比利时大奖赛",
+      "flag": "🇧🇪",
+      "country": "比利时",
+      "circuit": "Spa-Francorchamps",
+      "date": "7月17-19日",
+      "raceTime": "21:00",
+      "status": "done"
+    },
+    {
+      "round": 11,
+      "gp": "匈牙利大奖赛",
+      "flag": "🇭🇺",
+      "country": "匈牙利",
+      "circuit": "Hungaroring",
+      "date": "7月24-26日",
+      "raceTime": "21:00",
+      "status": "done"
+    },
+    {
+      "round": 12,
+      "gp": "荷兰大奖赛",
+      "flag": "🇳🇱",
+      "country": "荷兰",
+      "circuit": "Zandvoort",
+      "date": "8月21-23日",
+      "raceTime": "21:00",
+      "sprint": true,
+      "status": "done"
+    },
+    {
+      "round": 13,
+      "gp": "意大利大奖赛",
+      "flag": "🇮🇹",
+      "country": "意大利",
+      "circuit": "Monza",
+      "date": "9月4-6日",
+      "raceTime": "21:00",
+      "status": "done"
+    },
+    {
+      "round": 14,
+      "gp": "马德里大奖赛",
+      "flag": "🇪🇸",
+      "country": "西班牙",
+      "circuit": "IFEMA, 马德里",
+      "date": "9月11-13日",
+      "raceTime": "21:00",
+      "status": "soon"
+    },
+    {
+      "round": 15,
+      "gp": "阿塞拜疆大奖赛",
+      "flag": "🇦🇿",
+      "country": "阿塞拜疆",
+      "circuit": "Baku",
+      "date": "9月24-26日",
+      "raceTime": "19:00",
+      "status": "pre"
+    },
+    {
+      "round": 16,
+      "gp": "新加坡大奖赛",
+      "flag": "🇸🇬",
+      "country": "新加坡",
+      "circuit": "Marina Bay",
+      "date": "10月9-11日",
+      "raceTime": "20:00",
+      "sprint": true,
+      "status": "pre"
+    },
+    {
+      "round": 17,
+      "gp": "美国大奖赛",
+      "flag": "🇺🇸",
+      "country": "美国",
+      "circuit": "COTA, 奥斯汀",
+      "date": "10月24-26日",
+      "raceTime": "04:00",
+      "status": "pre"
+    },
+    {
+      "round": 18,
+      "gp": "墨西哥城大奖赛",
+      "flag": "🇲🇽",
+      "country": "墨西哥",
+      "circuit": "Hermanos Rodríguez",
+      "date": "10月31日-11月2日",
+      "raceTime": "04:00",
+      "status": "pre"
+    },
+    {
+      "round": 19,
+      "gp": "圣保罗大奖赛",
+      "flag": "🇧🇷",
+      "country": "巴西",
+      "circuit": "Interlagos",
+      "date": "11月6-9日",
+      "raceTime": "01:00",
+      "status": "pre"
+    },
+    {
+      "round": 20,
+      "gp": "拉斯维加斯大奖赛",
+      "flag": "🇺🇸",
+      "country": "美国",
+      "circuit": "Las Vegas Strip",
+      "date": "11月20-22日",
+      "raceTime": "12:00",
+      "status": "pre"
+    },
+    {
+      "round": 21,
+      "gp": "卡塔尔大奖赛",
+      "flag": "🇶🇦",
+      "country": "卡塔尔",
+      "circuit": "Lusail",
+      "date": "11月27-30日",
+      "raceTime": "01:00",
+      "status": "pre"
+    },
+    {
+      "round": 22,
+      "gp": "阿布扎比大奖赛",
+      "flag": "🇦🇪",
+      "country": "阿联酋",
+      "circuit": "Yas Marina",
+      "date": "12月4-6日",
+      "raceTime": "21:00",
+      "status": "pre"
+    }
+  ],
+  "SESSIONS": {
+    "1": [
+      {
+        "l": "一练",
+        "t": "3月6日 10:00"
+      },
+      {
+        "l": "二练",
+        "t": "3月6日 13:30"
+      },
+      {
+        "l": "三练",
+        "t": "3月7日 10:00"
+      },
+      {
+        "l": "排位赛",
+        "t": "3月7日 13:00"
+      },
+      {
+        "l": "正赛",
+        "t": "3月8日 12:00"
+      }
+    ],
+    "2": [
+      {
+        "l": "一练",
+        "t": "3月13日 10:00"
+      },
+      {
+        "l": "冲刺排位",
+        "t": "3月14日 11:00"
+      },
+      {
+        "l": "冲刺赛",
+        "t": "3月14日 11:30"
+      },
+      {
+        "l": "排位赛",
+        "t": "3月14日 13:00"
+      },
+      {
+        "l": "正赛",
+        "t": "3月15日 15:00"
+      }
+    ],
+    "3": [
+      {
+        "l": "一练",
+        "t": "3月27日 10:00"
+      },
+      {
+        "l": "二练",
+        "t": "3月27日 13:00"
+      },
+      {
+        "l": "三练",
+        "t": "3月28日 10:00"
+      },
+      {
+        "l": "排位赛",
+        "t": "3月28日 13:00"
+      },
+      {
+        "l": "正赛",
+        "t": "3月29日 13:00"
+      }
+    ],
+    "4": [
+      {
+        "l": "一练",
+        "t": "5月2日 01:30"
+      },
+      {
+        "l": "冲刺排位",
+        "t": "5月2日 05:00"
+      },
+      {
+        "l": "冲刺赛",
+        "t": "5月2日 06:30"
+      },
+      {
+        "l": "排位赛",
+        "t": "5月3日 04:00"
+      },
+      {
+        "l": "正赛",
+        "t": "5月4日 04:00"
+      }
+    ],
+    "5": [
+      {
+        "l": "一练",
+        "t": "5月23日 00:00"
+      },
+      {
+        "l": "冲刺排位",
+        "t": "5月23日 03:00"
+      },
+      {
+        "l": "冲刺赛",
+        "t": "5月23日 04:30"
+      },
+      {
+        "l": "排位赛",
+        "t": "5月24日 02:00"
+      },
+      {
+        "l": "正赛",
+        "t": "5月25日 04:00"
+      }
+    ],
+    "6": [
+      {
+        "l": "一练",
+        "t": "6月5日 18:30"
+      },
+      {
+        "l": "二练",
+        "t": "6月5日 22:00"
+      },
+      {
+        "l": "三练",
+        "t": "6月6日 18:30"
+      },
+      {
+        "l": "排位赛",
+        "t": "6月6日 22:00"
+      },
+      {
+        "l": "正赛",
+        "t": "6月7日 21:00"
+      }
+    ],
+    "7": [
+      {
+        "l": "一练",
+        "t": "6月12日 18:30"
+      },
+      {
+        "l": "二练",
+        "t": "6月12日 22:00"
+      },
+      {
+        "l": "三练",
+        "t": "6月13日 18:30"
+      },
+      {
+        "l": "排位赛",
+        "t": "6月13日 22:00"
+      },
+      {
+        "l": "正赛",
+        "t": "6月14日 21:00"
+      }
+    ],
+    "8": [
+      {
+        "l": "一练",
+        "t": "6月26日 18:30"
+      },
+      {
+        "l": "二练",
+        "t": "6月26日 22:00"
+      },
+      {
+        "l": "三练",
+        "t": "6月27日 18:30"
+      },
+      {
+        "l": "排位赛",
+        "t": "6月27日 22:00"
+      },
+      {
+        "l": "正赛",
+        "t": "6月28日 21:00"
+      }
+    ],
+    "9": [
+      {
+        "l": "一练",
+        "t": "7月3日 19:30"
+      },
+      {
+        "l": "冲刺排位",
+        "t": "7月3日 23:00"
+      },
+      {
+        "l": "冲刺赛",
+        "t": "7月4日 19:30"
+      },
+      {
+        "l": "排位赛",
+        "t": "7月4日 23:00"
+      },
+      {
+        "l": "正赛",
+        "t": "7月5日 22:00"
+      }
+    ],
+    "10": [
+      {
+        "l": "一练",
+        "t": "7月17日 18:30"
+      },
+      {
+        "l": "二练",
+        "t": "7月17日 22:00"
+      },
+      {
+        "l": "三练",
+        "t": "7月18日 18:30"
+      },
+      {
+        "l": "排位赛",
+        "t": "7月18日 22:00"
+      },
+      {
+        "l": "正赛",
+        "t": "7月19日 21:00"
+      }
+    ],
+    "11": [
+      {
+        "l": "一练",
+        "t": "7月24日 18:30"
+      },
+      {
+        "l": "二练",
+        "t": "7月24日 22:00"
+      },
+      {
+        "l": "三练",
+        "t": "7月25日 18:30"
+      },
+      {
+        "l": "排位赛",
+        "t": "7月25日 22:00"
+      },
+      {
+        "l": "正赛",
+        "t": "7月26日 21:00"
+      }
+    ],
+    "12": [
+      {
+        "l": "一练",
+        "t": "8月21日 18:30"
+      },
+      {
+        "l": "冲刺排位",
+        "t": "8月21日 22:00"
+      },
+      {
+        "l": "冲刺赛",
+        "t": "8月22日 18:00"
+      },
+      {
+        "l": "排位赛",
+        "t": "8月22日 22:00"
+      },
+      {
+        "l": "正赛",
+        "t": "8月23日 21:00"
+      }
+    ],
+    "13": [
+      {
+        "l": "一练",
+        "t": "9月4日 18:30"
+      },
+      {
+        "l": "二练",
+        "t": "9月4日 22:00"
+      },
+      {
+        "l": "三练",
+        "t": "9月5日 18:30"
+      },
+      {
+        "l": "排位赛",
+        "t": "9月5日 22:00"
+      },
+      {
+        "l": "正赛",
+        "t": "9月6日 21:00"
+      }
+    ],
+    "14": [
+      {
+        "l": "一练",
+        "t": "9月11日 18:30"
+      },
+      {
+        "l": "二练",
+        "t": "9月11日 22:00"
+      },
+      {
+        "l": "三练",
+        "t": "9月12日 18:30"
+      },
+      {
+        "l": "排位赛",
+        "t": "9月12日 22:00"
+      },
+      {
+        "l": "正赛",
+        "t": "9月13日 21:00"
+      }
+    ],
+    "15": [
+      {
+        "l": "一练",
+        "t": "9月24日 16:30"
+      },
+      {
+        "l": "二练",
+        "t": "9月24日 20:00"
+      },
+      {
+        "l": "三练",
+        "t": "9月25日 16:30"
+      },
+      {
+        "l": "排位赛",
+        "t": "9月25日 20:00"
+      },
+      {
+        "l": "正赛",
+        "t": "9月26日 19:00"
+      }
+    ],
+    "16": [
+      {
+        "l": "一练",
+        "t": "10月9日 17:30"
+      },
+      {
+        "l": "冲刺排位",
+        "t": "10月9日 21:30"
+      },
+      {
+        "l": "冲刺赛",
+        "t": "10月10日 17:00"
+      },
+      {
+        "l": "排位赛",
+        "t": "10月10日 21:00"
+      },
+      {
+        "l": "正赛",
+        "t": "10月11日 20:00"
+      }
+    ],
+    "17": [
+      {
+        "l": "一练",
+        "t": "10月24日 00:30"
+      },
+      {
+        "l": "二练",
+        "t": "10月24日 04:00"
+      },
+      {
+        "l": "三练",
+        "t": "10月25日 00:30"
+      },
+      {
+        "l": "排位赛",
+        "t": "10月25日 04:00"
+      },
+      {
+        "l": "正赛",
+        "t": "10月26日 04:00"
+      }
+    ],
+    "18": [
+      {
+        "l": "一练",
+        "t": "10月31日 23:00"
+      },
+      {
+        "l": "二练",
+        "t": "11月1日 02:30"
+      },
+      {
+        "l": "三练",
+        "t": "11月1日 23:00"
+      },
+      {
+        "l": "排位赛",
+        "t": "11月2日 02:30"
+      },
+      {
+        "l": "正赛",
+        "t": "11月2日 04:00"
+      }
+    ],
+    "19": [
+      {
+        "l": "一练",
+        "t": "11月6日 21:30"
+      },
+      {
+        "l": "二练",
+        "t": "11月7日 00:30"
+      },
+      {
+        "l": "三练",
+        "t": "11月7日 21:30"
+      },
+      {
+        "l": "排位赛",
+        "t": "11月8日 00:00"
+      },
+      {
+        "l": "正赛",
+        "t": "11月9日 01:00"
+      }
+    ],
+    "20": [
+      {
+        "l": "一练",
+        "t": "11月21日 02:30"
+      },
+      {
+        "l": "二练",
+        "t": "11月21日 06:00"
+      },
+      {
+        "l": "三练",
+        "t": "11月22日 02:30"
+      },
+      {
+        "l": "排位赛",
+        "t": "11月22日 06:00"
+      },
+      {
+        "l": "正赛",
+        "t": "11月23日 12:00"
+      }
+    ],
+    "21": [
+      {
+        "l": "一练",
+        "t": "11月27日 22:30"
+      },
+      {
+        "l": "二练",
+        "t": "11月28日 02:00"
+      },
+      {
+        "l": "三练",
+        "t": "11月28日 22:30"
+      },
+      {
+        "l": "排位赛",
+        "t": "11月29日 02:00"
+      },
+      {
+        "l": "正赛",
+        "t": "11月30日 01:00"
+      }
+    ],
+    "22": [
+      {
+        "l": "一练",
+        "t": "12月4日 17:00"
+      },
+      {
+        "l": "二练",
+        "t": "12月4日 21:00"
+      },
+      {
+        "l": "三练",
+        "t": "12月5日 18:00"
+      },
+      {
+        "l": "排位赛",
+        "t": "12月5日 22:00"
+      },
+      {
+        "l": "正赛",
+        "t": "12月6日 21:00"
+      }
+    ]
+  },
+  "REGULATIONS": [
+    {
+      "icon": "⚡",
+      "title": "MGU-K 功率翻倍",
+      "desc": "从 120kW 提升至 350kW，电动动力占比大幅增加"
+    },
+    {
+      "icon": "📏",
+      "title": "车身尺寸缩小",
+      "desc": "长度缩短 100mm，宽度减少 50mm，赛车更紧凑"
+    },
+    {
+      "icon": "🔧",
+      "title": "主动空气动力学",
+      "desc": "前后翼可主动调节，DRS 区域扩大至全赛道"
+    },
+    {
+      "icon": "⚖️",
+      "title": "最低重量 670kg",
+      "desc": "比 2025 年减少 30kg，提升操控响应"
+    },
+    {
+      "icon": "🏎️",
+      "title": "平底底板设计",
+      "desc": "取消文丘里隧道，减少地面效应依赖"
+    },
+    {
+      "icon": "🆕",
+      "title": "两支新车队加入",
+      "desc": "Audi 和 Cadillac 正式参赛，车队总数达 11 支"
+    },
+    {
+      "icon": "🌱",
+      "title": "100% 可持续燃料",
+      "desc": "全面使用可持续燃料，迈向碳中和"
+    },
+    {
+      "icon": "🇪🇸",
+      "title": "马德里大奖赛",
+      "desc": "新增西班牙第二站，赛程扩至 22 场"
+    }
+  ],
+  "RACE_RESULTS": {
+    "1": [
+      "G. Russell",
+      "K. Antonelli",
+      "C. Leclerc",
+      "L. Hamilton",
+      "L. Norris",
+      "M. Verstappen",
+      "O. Bearman",
+      "A. Lindblad",
+      "G. Bortoleto",
+      "P. Gasly"
+    ],
+    "2": [
+      "K. Antonelli",
+      "G. Russell",
+      "L. Hamilton",
+      "C. Leclerc",
+      "O. Bearman",
+      "P. Gasly",
+      "L. Lawson",
+      "I. Hadjar",
+      "C. Sainz",
+      "F. Colapinto"
+    ],
+    "3": [
+      "K. Antonelli",
+      "O. Piastri",
+      "C. Leclerc",
+      "G. Russell",
+      "L. Norris",
+      "L. Hamilton",
+      "P. Gasly",
+      "M. Verstappen",
+      "L. Lawson",
+      "E. Ocon"
+    ],
+    "4": [
+      "K. Antonelli",
+      "L. Norris",
+      "O. Piastri",
+      "G. Russell",
+      "M. Verstappen",
+      "C. Leclerc",
+      "L. Hamilton",
+      "F. Colapinto",
+      "C. Sainz",
+      "A. Albon"
+    ],
+    "5": [
+      "K. Antonelli",
+      "L. Hamilton",
+      "M. Verstappen",
+      "C. Leclerc",
+      "I. Hadjar",
+      "F. Colapinto",
+      "L. Lawson",
+      "P. Gasly",
+      "C. Sainz",
+      "O. Bearman"
+    ],
+    "6": [
+      "K. Antonelli",
+      "L. Hamilton",
+      "I. Hadjar",
+      "O. Piastri",
+      "L. Lawson",
+      "A. Lindblad",
+      "P. Gasly",
+      "A. Albon",
+      "E. Ocon",
+      "F. Alonso"
+    ],
+    "7": [
+      "L. Hamilton",
+      "G. Russell",
+      "L. Norris",
+      "M. Verstappen",
+      "O. Piastri",
+      "I. Hadjar",
+      "P. Gasly",
+      "L. Lawson",
+      "A. Lindblad",
+      "F. Colapinto"
+    ],
+    "8": [
+      "G. Russell",
+      "M. Verstappen",
+      "K. Antonelli",
+      "O. Piastri",
+      "L. Hamilton",
+      "I. Hadjar",
+      "L. Norris",
+      "C. Leclerc",
+      "L. Lawson",
+      "A. Lindblad"
+    ],
+    "9": [
+      "C. Leclerc",
+      "G. Russell",
+      "L. Hamilton",
+      "L. Norris",
+      "I. Hadjar",
+      "L. Lawson",
+      "A. Lindblad",
+      "G. Bortoleto",
+      "F. Colapinto",
+      "P. Gasly"
+    ],
+    "10": [
+      "K. Antonelli",
+      "C. Leclerc",
+      "M. Verstappen",
+      "L. Hamilton",
+      "O. Piastri",
+      "I. Hadjar",
+      "L. Norris",
+      "G. Bortoleto",
+      "A. Lindblad",
+      "F. Colapinto"
+    ],
+    "11": [
+      "L. Norris",
+      "M. Verstappen",
+      "K. Antonelli",
+      "C. Leclerc",
+      "L. Hamilton",
+      "I. Hadjar",
+      "G. Russell",
+      "L. Lawson",
+      "N. Hülkenberg",
+      "A. Lindblad"
+    ],
+    "12": [
+      "K. Antonelli",
+      "G. Russell",
+      "C. Leclerc",
+      "L. Hamilton",
+      "P. Gasly",
+      "L. Lawson",
+      "O. Piastri",
+      "A. Lindblad",
+      "N. Hülkenberg",
+      "A. Albon"
+    ],
+    "13": [
+      "K. Antonelli",
+      "L. Norris",
+      "L. Hamilton",
+      "C. Leclerc",
+      "O. Piastri",
+      "G. Russell",
+      "P. Gasly",
+      "L. Lawson",
+      "A. Lindblad",
+      "F. Alonso"
+    ]
+  },
+  "SPRINT_RESULTS": {
+    "2": [
+      "K. Antonelli",
+      "G. Russell",
+      "O. Piastri",
+      "L. Norris",
+      "C. Leclerc",
+      "L. Hamilton",
+      "M. Verstappen",
+      "O. Bearman"
+    ],
+    "4": [
+      "K. Antonelli",
+      "L. Norris",
+      "G. Russell",
+      "M. Verstappen",
+      "O. Piastri",
+      "C. Leclerc",
+      "L. Hamilton",
+      "I. Hadjar"
+    ],
+    "5": [
+      "K. Antonelli",
+      "L. Hamilton",
+      "M. Verstappen",
+      "G. Russell",
+      "C. Leclerc",
+      "O. Piastri",
+      "L. Lawson",
+      "I. Hadjar"
+    ],
+    "9": [
+      "C. Leclerc",
+      "G. Russell",
+      "L. Hamilton",
+      "L. Norris",
+      "I. Hadjar",
+      "K. Antonelli",
+      "M. Verstappen",
+      "O. Piastri"
+    ],
+    "12": [
+      "G. Russell",
+      "I. Hadjar",
+      "L. Lawson",
+      "L. Hamilton",
+      "K. Antonelli",
+      "C. Leclerc",
+      "P. Gasly",
+      "O. Bearman"
+    ]
+  },
+  "DRIVER_TEAMS": {
+    "G. Russell": "Mercedes-AMG",
+    "K. Antonelli": "Mercedes-AMG",
+    "C. Leclerc": "Ferrari",
+    "L. Hamilton": "Ferrari",
+    "L. Norris": "McLaren",
+    "O. Piastri": "McLaren",
+    "M. Verstappen": "Red Bull Racing",
+    "I. Hadjar": "Red Bull Racing",
+    "F. Alonso": "Aston Martin",
+    "A. Albon": "Williams",
+    "C. Sainz": "Williams",
+    "P. Gasly": "Alpine",
+    "F. Colapinto": "Alpine",
+    "E. Ocon": "Haas",
+    "O. Bearman": "Haas",
+    "L. Lawson": "Racing Bulls",
+    "A. Lindblad": "Racing Bulls",
+    "Y. Tsunoda": "Racing Bulls",
+    "N. Hülkenberg": "Audi",
+    "G. Bortoleto": "Audi",
+    "S. Perez": "Cadillac",
+    "V. Bottas": "Cadillac"
+  },
+  "DRIVER_RACE_POINTS": {
+    "K. Antonelli": [
+      18,
+      29,
+      25,
+      28,
+      31,
+      25,
+      0,
+      15,
+      8,
+      25,
+      15,
+      23,
+      25
+    ],
+    "G. Russell": [
+      25,
+      26,
+      12,
+      17,
+      8,
+      0,
+      18,
+      25,
+      23,
+      0,
+      6,
+      23,
+      18
+    ],
+    "L. Hamilton": [
+      12,
+      21,
+      8,
+      8,
+      21,
+      18,
+      25,
+      12,
+      22,
+      12,
+      10,
+      14,
+      8
+    ],
+    "L. Norris": [
+      10,
+      5,
+      10,
+      26,
+      7,
+      0,
+      15,
+      6,
+      18,
+      6,
+      25,
+      31,
+      12
+    ],
+    "C. Leclerc": [
+      15,
+      19,
+      15,
+      14,
+      12,
+      0,
+      0,
+      4,
+      29,
+      18,
+      12,
+      17,
+      0
+    ],
+    "M. Verstappen": [
+      8,
+      0,
+      4,
+      14,
+      17,
+      0,
+      12,
+      18,
+      3,
+      15,
+      18,
+      3,
+      15
+    ],
+    "O. Piastri": [
+      0,
+      3,
+      18,
+      22,
+      5,
+      12,
+      10,
+      12,
+      2,
+      10,
+      0,
+      12,
+      10
+    ],
+    "I. Hadjar": [
+      0,
+      4,
+      0,
+      0,
+      10,
+      15,
+      8,
+      8,
+      10,
+      8,
+      8,
+      0,
+      0
+    ],
+    "P. Gasly": [
+      1,
+      8,
+      6,
+      1,
+      4,
+      8,
+      8,
+      4,
+      2,
+      0,
+      0,
+      3,
+      6
+    ],
+    "L. Lawson": [
+      0,
+      8,
+      2,
+      0,
+      6,
+      2,
+      2,
+      2,
+      9,
+      0,
+      4,
+      6,
+      0
+    ],
+    "A. Lindblad": [
+      4,
+      0,
+      0,
+      0,
+      1,
+      8,
+      1,
+      1,
+      6,
+      2,
+      1,
+      1,
+      4
+    ],
+    "F. Colapinto": [
+      0,
+      1,
+      0,
+      4,
+      8,
+      0,
+      4,
+      0,
+      2,
+      0,
+      0,
+      0,
+      2
+    ],
+    "O. Bearman": [
+      6,
+      11,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "G. Bortoleto": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      4,
+      4,
+      0,
+      0,
+      2
+    ],
+    "N. Hülkenberg": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      4,
+      0
+    ],
+    "C. Sainz": [
+      0,
+      2,
+      0,
+      2,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "A. Albon": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      4,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "E. Ocon": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "F. Alonso": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      0
+    ],
+    "Y. Tsunoda": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "L. Stroll": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "V. Bottas": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "S. Perez": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "DRIVER_META": {
+    "K. Antonelli": {
+      "flag": "🇮🇹",
+      "team": "Mercedes-AMG",
+      "color": "#27F4D2"
+    },
+    "G. Russell": {
+      "flag": "🇬🇧",
+      "team": "Mercedes-AMG",
+      "color": "#27F4D2"
+    },
+    "L. Hamilton": {
+      "flag": "🇬🇧",
+      "team": "Ferrari",
+      "color": "#DC0000"
+    },
+    "L. Norris": {
+      "flag": "🇬🇧",
+      "team": "McLaren",
+      "color": "#FF8700"
+    },
+    "C. Leclerc": {
+      "flag": "🇲🇨",
+      "team": "Ferrari",
+      "color": "#DC0000"
+    },
+    "M. Verstappen": {
+      "flag": "🇳🇱",
+      "team": "Red Bull Racing",
+      "color": "#3671C6"
+    },
+    "O. Piastri": {
+      "flag": "🇦🇺",
+      "team": "McLaren",
+      "color": "#FF8700"
+    },
+    "I. Hadjar": {
+      "flag": "🇫🇷",
+      "team": "Red Bull Racing",
+      "color": "#3671C6"
+    },
+    "P. Gasly": {
+      "flag": "🇫🇷",
+      "team": "Alpine",
+      "color": "#FF87BC"
+    },
+    "L. Lawson": {
+      "flag": "🇳🇿",
+      "team": "Racing Bulls",
+      "color": "#6692FF"
+    },
+    "A. Lindblad": {
+      "flag": "🇬🇧",
+      "team": "Racing Bulls",
+      "color": "#6692FF"
+    },
+    "F. Colapinto": {
+      "flag": "🇦🇷",
+      "team": "Alpine",
+      "color": "#FF87BC"
+    },
+    "O. Bearman": {
+      "flag": "🇬🇧",
+      "team": "Haas",
+      "color": "#B6BABD"
+    },
+    "G. Bortoleto": {
+      "flag": "🇧🇷",
+      "team": "Audi",
+      "color": "#52E252"
+    },
+    "N. Hülkenberg": {
+      "flag": "🇩🇪",
+      "team": "Audi",
+      "color": "#52E252"
+    },
+    "C. Sainz": {
+      "flag": "🇪🇸",
+      "team": "Williams",
+      "color": "#64C4FF"
+    },
+    "A. Albon": {
+      "flag": "🇹🇭",
+      "team": "Williams",
+      "color": "#64C4FF"
+    },
+    "E. Ocon": {
+      "flag": "🇫🇷",
+      "team": "Haas",
+      "color": "#B6BABD"
+    },
+    "F. Alonso": {
+      "flag": "🇪🇸",
+      "team": "Aston Martin",
+      "color": "#229971"
+    },
+    "Y. Tsunoda": {
+      "flag": "🇯🇵",
+      "team": "Racing Bulls",
+      "color": "#6692FF"
+    },
+    "L. Stroll": {
+      "flag": "🇨🇦",
+      "team": "Aston Martin",
+      "color": "#229971"
+    },
+    "V. Bottas": {
+      "flag": "🇫🇮",
+      "team": "Cadillac",
+      "color": "#C8102E"
+    },
+    "S. Perez": {
+      "flag": "🇲🇽",
+      "team": "Cadillac",
+      "color": "#C8102E"
+    }
+  },
+  "RACE_LABELS": [
+    "AUS",
+    "CHN",
+    "JPN",
+    "MIA",
+    "CAN",
+    "MON",
+    "ESP",
+    "AUT",
+    "GBR",
+    "BEL",
+    "HUN",
+    "NED",
+    "ITA"
+  ],
+  "RACE_FULL_NAMES": [
+    "澳大利亚",
+    "中国",
+    "日本",
+    "迈阿密",
+    "加拿大",
+    "摩纳哥",
+    "西班牙",
+    "奥地利",
+    "英国",
+    "比利时",
+    "匈牙利",
+    "荷兰",
+    "意大利"
+  ]
+}
